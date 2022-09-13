@@ -1,0 +1,143 @@
+a {
+  color: #11999E;
+}
+
+body {
+  font-weight: 600;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 7.5px;
+  border-color: grey;
+  width: 60px;
+  clear: both;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding:40px 0 20px 0;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.code-skill {
+  float: left;
+  margin-right: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.contact{
+  padding-bottom: 30px;
+}
+.contact-me{
+  margin: 50px auto 50px auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 30px;
+}
+
+.foto-profile {
+  height: 200px;
+  width: 200px;
+  padding-top: 20px;
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 20px 20px 20px;
+  text-decoration: none;
+
+}
+
+.game-skill {
+  float: right;
+  margin-left: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.profile{
+  margin-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skills{
+  margin: 50px auto 50px auto;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
